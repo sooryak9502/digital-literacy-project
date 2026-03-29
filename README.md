@@ -5,7 +5,7 @@
 **Branch:** B.Tech Aerospace Engineering
 **Year:** 1st Year  
 
-## 📖 Project Overview
+##  Project Overview
 This project is part of CSE0001 – Digital Literacy. It focuses on building essential digital skills such as online presence, communication, cyber safety, and using digital tools effectively.
 
 ##  Tasks Summary
@@ -25,7 +25,7 @@ Drafted professional emails and created a social media do’s and don’ts check
 ### Task 5 – Cybercrime Awareness
 Prepared a case study on cybercrime and created a prevention checklist.
 
-## 🔗 Useful Links
+##  Useful Links
 - Google Form: [Paste your link here]
 
 ##  Conclusion
